@@ -17,6 +17,7 @@ function merge(left,right){
             arr.push(right.shift());
         }
     }
+    
     return [...arr,...left,...right];
 }
 
