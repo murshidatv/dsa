@@ -19,6 +19,7 @@ function bubbleSort(array) {
     }
 
     return array;
+    
 }
 
 // Test the function

@@ -20,3 +20,4 @@ let arr = [64, 34, 25, 12, 22, 11, 90];
 console.log("Unsorted array:", arr);
 let sortedArray = insertionSort(arr);
 console.log("Sorted array:", sortedArray);
+
